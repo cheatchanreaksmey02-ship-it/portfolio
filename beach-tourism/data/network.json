@@ -1,0 +1,43 @@
+{
+  "vertices": [
+    {"name": "Phnom Penh", "type": "City"},
+    {"name": "Sihanoukville", "type": "City"},
+    {"name": "Kampot", "type": "City"},
+    {"name": "Kep", "type": "City"},
+    {"name": "Sihanoukville Ferry Terminal", "type": "Ferry Terminal"},
+    {"name": "Otres Beach", "type": "Beach"},
+    {"name": "Serendipity Beach", "type": "Beach"},
+    {"name": "Sokha Beach", "type": "Beach"},
+    {"name": "Independence Beach", "type": "Beach"},
+    {"name": "Ochheuteal Beach", "type": "Beach"},
+    {"name": "Koh Rong", "type": "Beach"},
+    {"name": "Koh Rong Samloem", "type": "Beach"},
+    {"name": "Long Set Beach", "type": "Beach"},
+    {"name": "Lazy Beach", "type": "Beach"},
+    {"name": "Sunset Beach", "type": "Beach"},
+    {"name": "Kep Beach", "type": "Beach"},
+    {"name": "Prek Treng Beach", "type": "Beach"},
+    {"name": "Ream Beach", "type": "Beach"}
+  ],
+  "edges": [
+    {"from": "Phnom Penh", "to": "Sihanoukville", "distance_km": 215, "time_min": 151, "type": "Road"},
+    {"from": "Phnom Penh", "to": "Kampot", "distance_km": 126, "time_min": 127, "type": "Road"},
+    {"from": "Phnom Penh", "to": "Kep", "distance_km": 155, "time_min": 154, "type": "Road"},
+    {"from": "Kampot", "to": "Kep", "distance_km": 33.2, "time_min": 41, "type": "Road"},
+    {"from": "Sihanoukville", "to": "Kampot", "distance_km": 135, "time_min": 179, "type": "Road"},
+    {"from": "Sihanoukville", "to": "Otres Beach", "distance_km": 9.3, "time_min": 16, "type": "Road"},
+    {"from": "Sihanoukville", "to": "Serendipity Beach", "distance_km": 3.9, "time_min": 7, "type": "Road"},
+    {"from": "Sihanoukville", "to": "Sokha Beach", "distance_km": 2.8, "time_min": 5, "type": "Road"},
+    {"from": "Sihanoukville", "to": "Independence Beach", "distance_km": 7.2, "time_min": 12, "type": "Road"},
+    {"from": "Sihanoukville", "to": "Ochheuteal Beach", "distance_km": 2.2, "time_min": 4, "type": "Road"},
+    {"from": "Sihanoukville", "to": "Sihanoukville Ferry Terminal", "distance_km": 2.4, "time_min": 5, "type": "Road"},
+    {"from": "Sihanoukville", "to": "Prek Treng Beach", "distance_km": 32, "time_min": 45, "type": "Road"},
+    {"from": "Sihanoukville Ferry Terminal", "to": "Koh Rong", "distance_km": 12.9, "time_min": 22, "type": "Ferry"},
+    {"from": "Sihanoukville Ferry Terminal", "to": "Koh Rong Samloem", "distance_km": 1.3, "time_min": 18, "type": "Ferry"},
+    {"from": "Koh Rong", "to": "Long Set Beach", "distance_km": 9.1, "time_min": 18, "type": "Road"},
+    {"from": "Koh Rong Samloem", "to": "Sunset Beach", "distance_km": 22.1, "time_min": 45, "type": "Road"},
+    {"from": "Koh Rong Samloem", "to": "Lazy Beach", "distance_km": 2.1, "time_min": 29, "type": "Road"},
+    {"from": "Sihanoukville", "to": "Ream Beach", "distance_km": 21.6, "time_min": 31, "type": "Road"},
+    {"from": "Kep", "to": "Kep Beach", "distance_km": 11.6, "time_min": 12, "type": "Road"}
+  ]
+}

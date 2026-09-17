@@ -1,0 +1,307 @@
+[
+  {
+    "description": "A remote, largely undeveloped beach north of Sihanoukville town near the port (also known as Hun Sen Beach), popular for camping and picnics but with very few services.",
+    "opening_time": "06:00",
+    "closing_time": "19:00",
+    "restaurants_nearby": 1,
+    "hotels_nearby": 0,
+    "popularity_score": 30,
+    "beach_id": "B12",
+    "name": "Prek Treng Beach",
+    "province": "Preah Sihanouk",
+    "category": "Nature",
+    "rating": 3.8,
+    "entrance_fee": 0.0,
+    "gps": [
+      10.683,
+      103.542
+    ],
+    "activities": [
+      "Camping",
+      "Relaxing",
+      "Photography",
+      "Fishing"
+    ]
+  },
+  {
+    "description": "A peaceful beach bordering Ream National Park, close to nature and wildlife.",
+    "opening_time": "07:00",
+    "closing_time": "18:00",
+    "restaurants_nearby": 4,
+    "hotels_nearby": 3,
+    "popularity_score": 55,
+    "beach_id": "B13",
+    "name": "Ream Beach",
+    "province": "Preah Sihanouk",
+    "category": "Nature",
+    "rating": 4.3,
+    "entrance_fee": 1.0,
+    "gps": [
+      10.5,
+      103.63
+    ],
+    "activities": [
+      "Relaxing",
+      "Camping",
+      "Photography",
+      "Swimming"
+    ]
+  },
+  {
+    "description": "A secluded, west-facing beach on Koh Rong Samloem, reached via a jungle trail, famous for spectacular sunsets and a laid-back backpacker vibe.",
+    "opening_time": "00:00",
+    "closing_time": "23:59",
+    "restaurants_nearby": 3,
+    "hotels_nearby": 4,
+    "popularity_score": 60,
+    "beach_id": "B10",
+    "name": "Sunset Beach",
+    "province": "Preah Sihanouk",
+    "category": "Nature",
+    "rating": 4.5,
+    "entrance_fee": 0.0,
+    "gps": [
+      10.565,
+      103.135
+    ],
+    "activities": [
+      "Sunset Viewing",
+      "Photography",
+      "Relaxing",
+      "Snorkeling"
+    ]
+  },
+  {
+    "description": "The most popular and lively beach in Sihanoukville with bars, restaurants, and nightlife.",
+    "opening_time": "00:00",
+    "closing_time": "23:59",
+    "restaurants_nearby": 35,
+    "hotels_nearby": 40,
+    "popularity_score": 82,
+    "beach_id": "B02",
+    "name": "Serendipity Beach",
+    "province": "Preah Sihanouk",
+    "category": "Crowd",
+    "rating": 4.1,
+    "entrance_fee": 0.0,
+    "gps": [
+      10.612,
+      103.524
+    ],
+    "activities": [
+      "Swimming",
+      "Relaxing",
+      "Photography"
+    ]
+  },
+  {
+    "description": "A popular island destination with white sand beaches, diving, and a lively backpacker scene.",
+    "opening_time": "00:00",
+    "closing_time": "23:59",
+    "restaurants_nearby": 25,
+    "hotels_nearby": 30,
+    "popularity_score": 95,
+    "beach_id": "B06",
+    "name": "Koh Rong",
+    "province": "Preah Sihanouk",
+    "category": "Adventure",
+    "rating": 4.7,
+    "entrance_fee": 0.0,
+    "gps": [
+      10.72,
+      103.24
+    ],
+    "activities": [
+      "Swimming",
+      "Snorkeling",
+      "Diving",
+      "Photography",
+      "Camping"
+    ]
+  },
+  {
+    "description": "A quieter, more secluded island known for turquoise water and bioluminescent plankton at night.",
+    "opening_time": "00:00",
+    "closing_time": "23:59",
+    "restaurants_nearby": 12,
+    "hotels_nearby": 15,
+    "popularity_score": 90,
+    "beach_id": "B07",
+    "name": "Koh Rong Samloem",
+    "province": "Preah Sihanouk",
+    "category": "Nature",
+    "rating": 4.8,
+    "entrance_fee": 0.0,
+    "gps": [
+      10.57,
+      103.15
+    ],
+    "activities": [
+      "Swimming",
+      "Snorkeling",
+      "Relaxing",
+      "Photography"
+    ]
+  },
+  {
+    "description": "A long stretch of white sand on Koh Rong, a short walk or boat ride from Koh Touch village, known for calm, shallow water good for swimming.",
+    "opening_time": "00:00",
+    "closing_time": "23:59",
+    "restaurants_nearby": 10,
+    "hotels_nearby": 9,
+    "popularity_score": 75,
+    "beach_id": "B08",
+    "name": "Long Set Beach",
+    "province": "Preah Sihanouk",
+    "category": "Nature",
+    "rating": 4.5,
+    "entrance_fee": 0.0,
+    "gps": [
+      10.71,
+      103.235
+    ],
+    "activities": [
+      "Swimming",
+      "Relaxing",
+      "Snorkeling"
+    ]
+  },
+  {
+    "description": "A long, quiet, sandy beach known for its relaxed atmosphere and beachfront bungalows.",
+    "opening_time": "06:00",
+    "closing_time": "22:00",
+    "restaurants_nearby": 18,
+    "hotels_nearby": 22,
+    "popularity_score": 88,
+    "beach_id": "B01",
+    "name": "Otres Beach",
+    "province": "Preah Sihanouk",
+    "category": "Quiet",
+    "rating": 4.6,
+    "entrance_fee": 0.0,
+    "gps": [
+      10.585,
+      103.521
+    ],
+    "activities": [
+      "Swimming",
+      "Relaxing",
+      "Sunset Viewing",
+      "Photography"
+    ]
+  },
+  {
+    "description": "A pristine private-style resort beach known for luxury and clean white sand.",
+    "opening_time": "06:00",
+    "closing_time": "20:00",
+    "restaurants_nearby": 6,
+    "hotels_nearby": 3,
+    "popularity_score": 79,
+    "beach_id": "B03",
+    "name": "Sokha Beach",
+    "province": "Preah Sihanouk",
+    "category": "Luxury",
+    "rating": 4.7,
+    "entrance_fee": 20.0,
+    "gps": [
+      10.605,
+      103.533
+    ],
+    "activities": [
+      "Swimming",
+      "Relaxing",
+      "Photography"
+    ]
+  },
+  {
+    "description": "A calm mid-city beach with a mix of local and tourist visitors.",
+    "opening_time": "06:00",
+    "closing_time": "21:00",
+    "restaurants_nearby": 10,
+    "hotels_nearby": 12,
+    "popularity_score": 75,
+    "beach_id": "B04",
+    "name": "Independence Beach",
+    "province": "Preah Sihanouk",
+    "category": "Quiet",
+    "rating": 4.2,
+    "entrance_fee": 0.0,
+    "gps": [
+      10.608,
+      103.53
+    ],
+    "activities": [
+      "Swimming",
+      "Relaxing",
+      "Sunset Viewing"
+    ]
+  },
+  {
+    "description": "A small pebbly beach in the historic seaside town of Kep, near the famous crab market.",
+    "opening_time": "06:00",
+    "closing_time": "20:00",
+    "restaurants_nearby": 15,
+    "hotels_nearby": 10,
+    "popularity_score": 60,
+    "beach_id": "B11",
+    "name": "Kep Beach",
+    "province": "Kep",
+    "category": "Quiet",
+    "rating": 4.0,
+    "entrance_fee": 0.0,
+    "gps": [
+      10.48,
+      104.317
+    ],
+    "activities": [
+      "Relaxing",
+      "Photography",
+      "Swimming"
+    ]
+  },
+  {
+    "description": "A wide, busy public beach popular with local tourists and beach vendors.",
+    "opening_time": "06:00",
+    "closing_time": "22:00",
+    "restaurants_nearby": 20,
+    "hotels_nearby": 15,
+    "popularity_score": 70,
+    "beach_id": "B05",
+    "name": "Ochheuteal Beach",
+    "province": "Preah Sihanouk",
+    "category": "Crowd",
+    "rating": 3.9,
+    "entrance_fee": 0.0,
+    "gps": [
+      10.6,
+      103.526
+    ],
+    "activities": [
+      "Swimming",
+      "Relaxing"
+    ]
+  },
+  {
+    "description": "A remote, secluded stretch on Koh Rong Samloem ideal for disconnecting.",
+    "opening_time": "00:00",
+    "closing_time": "23:59",
+    "restaurants_nearby": 2,
+    "hotels_nearby": 3,
+    "popularity_score": 65,
+    "beach_id": "B09",
+    "name": "Lazy Beach",
+    "province": "Preah Sihanouk",
+    "category": "Quiet",
+    "rating": 4.6,
+    "entrance_fee": 0.0,
+    "gps": [
+      10.555,
+      103.14
+    ],
+    "activities": [
+      "Relaxing",
+      "Swimming",
+      "Sunset Viewing"
+    ]
+  }
+]
